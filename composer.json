@@ -1,0 +1,12 @@
+{
+    "name": "vendor/console-app",
+    "authors": [
+        {
+            "name": "Konstantin",
+            "email": "zkvprog@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^3.4"
+    }
+}
