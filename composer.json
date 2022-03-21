@@ -6,6 +6,11 @@
             "email": "zkvprog@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "App\\Console\\": "src/"
+        }
+    },
     "require": {
         "symfony/console": "^3.4"
     }
