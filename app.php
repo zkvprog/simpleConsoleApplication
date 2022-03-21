@@ -6,5 +6,6 @@ $app = new \Symfony\Component\Console\Application('demo application');
 
 $app->add(new \App\Console\Hello());
 $app->add(new \App\Console\RepeatString());
+$app->add(new \App\Console\Quest());
 
 $app->run();
